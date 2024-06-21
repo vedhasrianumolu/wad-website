@@ -1,0 +1,14 @@
+.a {
+    display: flex;
+    justify-content: space-around;
+    padding: 22px;
+    flex-wrap: wrap;
+    align-content: stretch;
+  }
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  
