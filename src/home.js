@@ -9,7 +9,7 @@ function Home() {
       <img className="w-40" alt="" />
       <h2>WELCOME TO THE STORE</h2>
       
-      <h3>Contact number:xxxxxxxxxxxx</h3>
+      <h3>Contact number:xxxxxxxxxxxxxx</h3>
     </div>
   );
 }
